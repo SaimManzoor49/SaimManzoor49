@@ -5,15 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saimmanzoor49" alt="saimmanzoor49" /></a> </p>
 
-- 🌱 I’m currently learning **DSA and Competitive Programming**
-
-- 👨‍💻 All of my projects are available at [https://saimdev.vercel.app/](https://saimdev.vercel.app/)
-
-- 💬 Ask me about **MERN, NextJS, C++**
-
 - 📫 How to reach me **saummanzoor49@gmail.com**
-
-- 📄 Know about my experiences [Here](https://drive.google.com/file/d/15rvXh13N2aF2PyfEW2besb9crqPeWbLn/view?usp=sharing)
 
 - ⚡ Fun fact **Falling asleep involves mentally traversing binary trees and optimizing branches. 😁**
 
@@ -21,7 +13,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/saimmanzoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saimmanzoor" height="30" width="40" /></a>
 <!-- <a href="https://fb.com/saim.manzoor.562" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saim manzoor" height="30" width="40" /></a> -->
-<a href="https://instagram.com/ig_notfreak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig_notfreak" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
